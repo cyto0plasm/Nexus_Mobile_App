@@ -1,0 +1,40 @@
+{
+  "@@locale": "en",
+  "appName": "Nexus",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "emailAddress": "Email Address",
+  "emailPlaceholder": "you@example.com",
+  "password": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "confirmPassword": "Confirm Password",
+  "confirmPasswordPlaceholder": "Re-enter your password",
+  "fullName": "Full Name",
+  "fullNamePlaceholder": "Mohamed Ahmed",
+  "phoneNumber": "Phone Number",
+  "phonePlaceholder": "01xxxxxxxxx",
+  "forgotPassword": "Forgot Password?",
+  "noAccount": "Don't have an account? ",
+  "alreadyHaveAccount": "Already have an account? ",
+  "dontHaveAnAccount": "I don’t have an account ",
+  "welcomeBack": "Welcome Back",
+  "createAccount": "Create New Account",
+  "emailRequired": "Email is required",
+  "emailInvalid": "Enter a valid email address",
+  "passwordRequired": "Password is required",
+  "passwordTooShort": "Must be at least 6 characters",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "nameRequired": "Name is required",
+  "phoneRequired": "Phone number is required",
+  "accountCreated": "Account created! Welcome.",
+  "loggedIn": "Logged in successfully",
+  "welcomeUser": "Welcome, {name}!",
+  "@welcomeUser": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "orContinueWith": "Or continue with",
+  "google": "Google",
+  "apple": "Apple"
+}
